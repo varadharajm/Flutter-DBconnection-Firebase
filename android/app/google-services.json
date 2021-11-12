@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705308719860",
+    "project_id": "amazing-counter-d2700",
+    "storage_bucket": "amazing-counter-d2700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705308719860:android:91b92fe936f6bcc7c6fca1",
+        "android_client_info": {
+          "package_name": "com.example.first_fbdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705308719860-1d80m63ae41o1essfucsgchmms7747fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjI2cIIwa-AXVHBuxB3RlUMM16Cd6vTB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705308719860-1d80m63ae41o1essfucsgchmms7747fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
