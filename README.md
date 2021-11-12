@@ -1,6 +1,6 @@
 # first_fbdb
 
-A new Flutter project.
+Flutter used firebase db 
 
 ## Getting Started
 
